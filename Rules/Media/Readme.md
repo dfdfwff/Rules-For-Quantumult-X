@@ -10,6 +10,7 @@ Media部分规则 由 Me （不要脸的） 从网上搜刮整理而来，在提
 
 | 规则名称 | 规则用途 | 规则地址 |
 | :-: | :-: | :-: |
+
 | ForeignMedia | 国外流媒体集合 | [Rules/Media/ForeignMedia.list](https://cdn.jsdelivr.net/gh/sve1r/Rules-For-Quantumult-X@main/Rules/Media/ForeignMedia.list) |
 | DomesticMedia | 国内流媒体集合 | [Rules/Media/DomesticMedia.list](https://cdn.jsdelivr.net/gh/sve1r/Rules-For-Quantumult-X@main/Rules/Media/DomesticMedia.list) |
 | :-: | :-: | :-: |
@@ -18,4 +19,3 @@ Media部分规则 由 Me （不要脸的） 从网上搜刮整理而来，在提
 | AmazonPrime | AmazonPrime规则 | [Rules/Media/ForeignMedia/AmazonPrime.list](https://cdn.jsdelivr.net/gh/sve1r/Rules-For-Quantumult-X@main/Rules/Media/Foreign/AmazonPrime.list) |
 | Bahamut | Bahamut规则 | [Rules/Media/ForeignMedia/Bahamut.list](https://cdn.jsdelivr.net/gh/sve1r/Rules-For-Quantumult-X@main/Rules/Media/Foreign/Bahamut.list) |
 | BBC | BBC规则 | [Rules/Media/ForeignMedia/BBC.list](https://cdn.jsdelivr.net/gh/sve1r/Rules-For-Quantumult-X@main/Rules/Media/Foreign/BBC.list) |
-
